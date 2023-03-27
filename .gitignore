@@ -1,0 +1,5 @@
+.idea/
+__pycache__/
+allure-results
+.env
+id.txt
