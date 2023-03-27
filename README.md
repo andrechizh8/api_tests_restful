@@ -13,6 +13,7 @@
 :radio_button: Проверка удаления
 
 Для запуска тестов локально необходимо в командной строке прописать:
+
         pip install -r requirements.txt
         pytest .
               
