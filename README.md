@@ -1,4 +1,4 @@
-В данном проекте реализована проверка CRUD операций в тестовом API https://restful-booker.herokuapp.com/apidoc/index.html с использованием библиотеки Requests
+В данном проекте реализована проверка CRUD операций в тестовом API www.restful-booker.herokuapp.com с использованием библиотеки Requests
 
 :radio_button: Создание "бронирования" на сайте
 
