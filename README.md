@@ -37,6 +37,8 @@
 
 ![Альтернативный текст](https://github.com/andrechizh8/api_tests_restful/blob/main/readme%20files/restful2.png)
 
+Cсылка на Allure Report : [Report](https://jenkins.autotests.cloud/job/RESTFUL_BOOKING%20API%20TESTS/25/allure/)
+
 
 Кроме того, в проекте реализована возможность просмотр отчета в  Allure TestOps : 
 
