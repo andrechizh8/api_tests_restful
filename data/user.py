@@ -1,7 +1,7 @@
 import random
 from faker import Faker
 from dataclasses import dataclass
-from typing import Literal, List
+from typing import Literal
 
 
 @dataclass
