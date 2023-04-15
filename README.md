@@ -29,7 +29,7 @@
  ### Запуск в Jenkins : [JOB](https://jenkins.autotests.cloud/job/RESTFUL_BOOKING%20API%20TESTS/)
  
  Нажать на кнопку Собрать сейчас
-![Альтернативный текст](https://github.com/andrechizh8/api_tests_restful/blob/main/readme%20files/restful1.png)
+![Альтернативный текст](https://github.com/andrechizh8/api_tests_restful/blob/main/readme%20files/api_jenkis.png)
 
 После сборки есть возможность посмотреть отчет с различными приложениями: 
 
