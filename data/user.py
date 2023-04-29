@@ -26,4 +26,3 @@ user = User(first_name=faker.first_name(), last_name=faker.last_name(), update_f
             additional_needs=faker.job(),
             deposit_paid=random.choice(deposit))
 
-print(user)
